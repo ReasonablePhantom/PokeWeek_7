@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android studio/Projetos Kotlin/pokedex-retrofit-mvvm/app/src/main/res/drawable/cursor_style.xml" value="0.231" />
+        <entry key="..\:/Android studio/Projetos Kotlin/pokedex-retrofit-mvvm/app/src/main/res/drawable/edt_form_style.xml" value="0.231" />
+        <entry key="..\:/Android studio/Projetos Kotlin/pokedex-retrofit-mvvm/app/src/main/res/drawable/txt_form_style.xml" value="0.1415" />
+        <entry key="..\:/Android studio/Projetos Kotlin/pokedex-retrofit-mvvm/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Android studio/Projetos Kotlin/pokedex-retrofit-mvvm/app/src/main/res/layout/item_dialog_pokemon.xml" value="0.33" />
+        <entry key="..\:/Android studio/Projetos Kotlin/pokedex-retrofit-mvvm/app/src/main/res/layout/item_pokemon.xml" value="0.67" />
+        <entry key="..\:/Android studio/Projetos Kotlin/pokedex-retrofit-mvvm/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Projetos/Projetos Android/Projetos kotlin/PokeDexretrofit/app/src/main/res/drawable/cursor_style.xml" value="0.196" />
+        <entry key="..\:/Projetos/Projetos Android/Projetos kotlin/PokeDexretrofit/app/src/main/res/drawable/edt_form.xml" value="0.213" />
+        <entry key="..\:/Projetos/Projetos Android/Projetos kotlin/PokeDexretrofit/app/src/main/res/drawable/edt_form_style.xml" value="0.196" />
+        <entry key="..\:/Projetos/Projetos Android/Projetos kotlin/PokeDexretrofit/app/src/main/res/drawable/ic_pokebola.xml" value="0.196" />
+        <entry key="..\:/Projetos/Projetos Android/Projetos kotlin/PokeDexretrofit/app/src/main/res/drawable/txt_form_style.xml" value="0.196" />
+        <entry key="..\:/Projetos/Projetos Android/Projetos kotlin/PokeDexretrofit/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Projetos/Projetos Android/Projetos kotlin/PokeDexretrofit/app/src/main/res/layout/item_pokemon.xml" value="0.5" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
