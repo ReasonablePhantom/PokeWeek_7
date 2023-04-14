@@ -1,41 +1,67 @@
-<h1 align="center">PokeDex</h1>
+<!-- (This is a comment) INSTRUCTIONS: Go through this page and fill out any **bolded** entries with their correct values.-->
 
+# AND101 Project 7 - CYOAPI Part 3: Beautified
 
+Submitted by: **JunZhneg Lyu**
 
-Uma Pokedex simples, mostrando informações básicas dos 151 primeiros pokemons (Primeira geração).
-Construido e feito para o sistema operacional Android com o android minimo Lollipop(SDK 21).
-Essa aplicação foi construida utilizando Coroutines, Retrofit, KOIN, arquitetura MVVM, Glide.
+Time spent: **3.5** hours spent in total
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
+## Summary
 
-<img src="/preview/imgs.png"/>
+**Name of your app** is an android app that **fill in description (Example: "An app that displays a scrollable list of characters from the Marvel API")**
 
-## API Pokemon
-<img src="https://user-images.githubusercontent.com/24237865/83422649-d1b1d980-a464-11ea-8c91-a24fdf89cd6b.png" align="left" width="21%"/>
+If I had to describe this project in three (3) emojis, they would be: **emojis here**
 
-Essa PokeDex utiliza a [PokeApi](<https://pokeapi.co/api/v2/>).
-<p>A PokeApi prove uma interface de RESTful API com bastantes detalhes.</p>
-<br></br>
+## Application Features
 
-## Features
-* Architecture: MVVM
-  * data: Configurações do Retrofit para fazer a requisição a API 
-  * di: Configurações da biblitoeca KOIN 
-  * model: modelo das classes
+<!-- (This is a comment) Please be sure to change the [ ] to [x] for any features you completed.  If a feature is not checked [x], you might miss the points for that item! -->
 
-* Lenguages:
-  * ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) 100%  
+The following REQUIRED features are completed:
 
-* Library:
-  * Retrofit: 'com.squareup.retrofit2:retrofit:2.9.0' [Site retrofit squareup](<https://square.github.io/retrofit/>)
-  * Gson: 'com.squareup.retrofit2:converter-gson:2.9.0' 
-  * viewBinding: viewBinding{ enabled = true }
-  * Glide: 'com.github.bumptech.glide:glide:4.13.0' [Biblioteca Glide](<https://github.com/bumptech/glide>)
-  * viewModel: "androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.0"
-  * KOIN: "io.insert-koin:koin-android:3.2.0" [Bliblioteca KOIN](<https://insert-koin.io>)
-  * coroutines: 'org.jetbrains.kotlinx:kotlinx-coroutines-android:1.3.9' & 'androidx.lifecycle:lifecycle-runtime-ktx:2.3.1'
-  
-## Try
-App: [Download PokeDex](https://github.com/InsertyEXE/PokeDex/blob/master/PokeDex.apk)
+- [x] App contains a RecyclerView that displays a list of scrollable data
+- [x] App displays at least two (2) pieces of data for each RecyclerView item
+- [ ] Use a downloadable font with custom color and size
+- [x] Modify the theme of the app in `themes.xml`
+- [x] Define and apply at least one style in **either** `themes.xml` or a new file `styles.xml`
 
+The following STRETCH features are implemented:
+
+- [ ] Update the night theme to use different versions of styles when in dark mode
+- [ ] Use different drawables when in dark mode
+
+The following EXTRA features are implemented:
+
+- [ ] List anything else that you added to improve the app!
+
+## Video Demo
+
+Here's a video / GIF that demos all of the app's implemented features:
+
+<img src='https://submissions.us-east-1.linodeobjects.com/and101/2edVhpPn.gif' title='Video Demo Poke week 7' width='' alt='Video Demo' />
+
+GIF created with **your chosen GIF tool**
+
+<!-- Recommended tools:
+- [Kap](https://getkap.co/) for macOS
+- [ScreenToGif](https://www.screentogif.com/) for Windows
+- [peek](https://github.com/phw/peek) for Linux. -->
+
+## Notes
+
+Here's a place for any other notes on the app, it's creation process, or what you learned this unit!
+
+## License
+
+Copyright **2023** **JunZheng Lyu**
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
